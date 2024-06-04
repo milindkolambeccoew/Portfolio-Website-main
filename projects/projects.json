@@ -10,9 +10,9 @@
     }
   },
   {
-    "name": "DreamDecor",
+    "name": "dreamdecor",
     "desc": "A interior design website created using HTML, CSS",
-    "image": "DreamDecor",
+    "image": "dreamdecor",
     "category": "HTMLCSS",
     "links": {
       "view": "https://vinitakolambe.github.io/DreamDecor/"
